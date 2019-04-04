@@ -100,7 +100,6 @@ library
     Data.Text.Encoding
     Data.Text.Encoding.Error
     Data.Text.Foreign
-    Data.Text.IO
     Data.Text.Internal
     Data.Text.Internal.Builder
     Data.Text.Internal.Builder.Functions
@@ -117,7 +116,6 @@ library
     Data.Text.Internal.Fusion.Common
     Data.Text.Internal.Fusion.Size
     Data.Text.Internal.Fusion.Types
-    Data.Text.Internal.IO
     Data.Text.Internal.Lazy
     Data.Text.Internal.Lazy.Encoding.Fusion
     Data.Text.Internal.Lazy.Fusion
@@ -133,7 +131,6 @@ library
     Data.Text.Lazy.Builder.Int
     Data.Text.Lazy.Builder.RealFloat
     Data.Text.Lazy.Encoding
-    Data.Text.Lazy.IO
     Data.Text.Lazy.Internal
     Data.Text.Lazy.Read
     Data.Text.Read
@@ -204,7 +201,6 @@ test-suite tests
     Data.Text.Encoding
     Data.Text.Encoding.Error
     Data.Text.Foreign
-    Data.Text.IO
     Data.Text.Internal
     Data.Text.Internal.Builder
     Data.Text.Internal.Builder.Functions
@@ -221,7 +217,6 @@ test-suite tests
     Data.Text.Internal.Fusion.Common
     Data.Text.Internal.Fusion.Size
     Data.Text.Internal.Fusion.Types
-    Data.Text.Internal.IO
     Data.Text.Internal.Lazy
     Data.Text.Internal.Lazy.Encoding.Fusion
     Data.Text.Internal.Lazy.Fusion
@@ -237,7 +232,6 @@ test-suite tests
     Data.Text.Lazy.Builder.Int
     Data.Text.Lazy.Builder.RealFloat
     Data.Text.Lazy.Encoding
-    Data.Text.Lazy.IO
     Data.Text.Lazy.Internal
     Data.Text.Lazy.Read
     Data.Text.Read
